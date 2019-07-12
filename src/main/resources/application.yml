@@ -1,0 +1,9 @@
+server:
+                  port: 9090
+
+                  consoleself:
+                    istest: true
+                    isproduction:
+                    address:
+                      test: http://ygfy.hoptest.haier.net/ecs-console
+                      production: http://ssc.haier.net/ecs-console
